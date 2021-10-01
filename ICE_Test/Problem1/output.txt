@@ -1,0 +1,5 @@
+
+vpoka180@HQSML-9057606 Problem1 % ./MinValue
+Smallest number that is larger than 95% of numbers: 1158.14
+Time taken by program for input size 128,000,000 is : 151.065479 sec
+vpoka180@HQSML-9057606 Problem1 %

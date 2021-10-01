@@ -1,0 +1,6 @@
+
+vpoka180@HQSML-9057606 Problem2 % ./FloorDesigns < allpossiblestripes.txt         
+Total possible combinations of length 30: 1897
+Total number of floor designs which have 11 strips of length 30: 1007720438618812
+Time taken for calculation of 11 stripes of length 30: 0.052713
+vpoka180@HQSML-9057606 Problem2 %
